@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arupkumar7978
-- 👀 I’m interested in Software & Web Devlopment .
+- 👀 I’m interested in Web Devlopment .
 - 🌱 I’m currently learning JAVA J2EE & REACT JS .
 - 📫 How to reach me --> Email : arupkumarpadhi68@gmail.com
 
